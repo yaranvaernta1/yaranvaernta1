@@ -15,11 +15,11 @@ const CONFIG = {
 
     // Metadata response (statis)
     chronos: {
-        // title:    'Coop Mod',
-        title: 'AsylumFoundationPresident',
+        title:    'Coop Mod',
+        // title: 'AsylumFoundationPresident',
         subtitle: 'v2.2.16.12322',
-        expired:  '3000-12-31',
-        btdata: 'm_bInTeamBattle'
+        expired:  '2026-12-31',
+        btdata: 'm_bSyncLoading'
     },
 
     // Timeout request (opsional)

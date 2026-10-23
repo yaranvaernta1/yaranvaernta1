@@ -1,7 +1,3 @@
-[build]
-  functions = "netlify/functions"
-  publish = "public"
-
 [[redirects]]
   from = "/chronos_loader"
   to = "/.netlify/functions/chronos_loader"

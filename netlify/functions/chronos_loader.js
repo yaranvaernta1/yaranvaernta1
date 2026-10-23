@@ -19,7 +19,7 @@ const CONFIG = {
         // title: 'AsylumFoundationPresident',
         subtitle: 'v2.2.16.12322',
         expired:  '2026-12-31',
-        btdata: 'm_bSyncLoading'
+        btdata: 'm_bBattleRady'
     },
 
     // Timeout request (opsional)
